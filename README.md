@@ -102,8 +102,6 @@ All algorithms prioritize immediate checkmate if available.
 ## Contributing
 Pull requests are welcome. Please open an issue to discuss major changes first.
 
-## License
-Add a license to clarify usage and contributions.
 
 ## Acknowledgments
 - Inspired by standard chess rules and classic board game UI patterns
